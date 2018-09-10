@@ -21,7 +21,7 @@
 ---|---|---|---
 [commit] | ⏰ 2018 9.7 | ![last] | [中文翻译][translate-list]
 
-[last]: https://img.shields.io/github/last-commit/rust-lang-nursery/rust-clippy.svg
+[last]: https://img.shields.io/github/last-commit/rust-lang-nursery/rust-clippy/gh-pages.svg
 [commit]: https://github.com/rust-lang-nursery/rust-clippy/tree/b47b8c223cb8ea61436cd898d8aedc01f2b61b95
 
 <!-- doc-templite END generated -->
