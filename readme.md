@@ -17,8 +17,18 @@
 <!-- repo = 'rust-lang-nursery/rust-clippy' -->
 <!-- commit = 'b47b8c223cb8ea61436cd898d8aedc01f2b61b95' -->
 <!-- time = '2018 9.7' -->
+翻译的原文 | 与日期 | 最新更新 | 更多
+---|---|---|---
+[commit] | ⏰ 2018 9.7 | ![last] | [中文翻译][translate-list]
+
+[last]: https://img.shields.io/github/last-commit/rust-lang-nursery/rust-clippy.svg
+[commit]: https://github.com/rust-lang-nursery/rust-clippy/tree/b47b8c223cb8ea61436cd898d8aedc01f2b61b95
 
 <!-- doc-templite END generated -->
+
+- [ ] [./readme.md](./readme.md)
+- [ ] [./index.html](./index.html)
+- [ ] [./lints.json](./lints.json)
 
 > 此项目的重心在 `gh-pages`分支, 的 网页内容
 
