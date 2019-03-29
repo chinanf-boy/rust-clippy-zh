@@ -21,7 +21,7 @@
 ---|---|---|---
 [commit] | ⏰ 2018 9.7 | ![last] | [中文翻译][translate-list]
 
-[last]: https://img.shields.io/github/last-commit/rust-lang-nursery/rust-clippy/gh-pages.svg
+[last]: https://img.shields.io/github/last-commit/rust-lang-nursery/rust-clippy.svg
 [commit]: https://github.com/rust-lang-nursery/rust-clippy/tree/b47b8c223cb8ea61436cd898d8aedc01f2b61b95
 
 <!-- doc-templite END generated -->
@@ -38,7 +38,7 @@
 
 ## 生活
 
-[help me live , live need money 💰](https://github.com/chinanf-boy/live-need-money)
+[If help, **buy** me coffee —— 营养跟不上了，给我来瓶营养快线吧! 💰](https://github.com/chinanf-boy/live-need-money)
 
 ---
 
@@ -48,9 +48,9 @@
 <!-- END doctoc -->
 
 
-我们目前正在通过RFC流程讨论Clippy 1.0<https://github.com/rust-lang/rfcs/pull/2476>. RFC的目标是阐明有关lint分类的策略以及lint应该在编译器中的策略以及哪些lint应该在Clippy中. 请留意您对RFC PR的看法. 
+我们目前正在通过RFC,讨论Clippy 1.0<https://github.com/rust-lang/rfcs/pull/2476>. RFC的目标是阐明有关lint分类的策略以及,lint在编译器中的策略,以及哪些lint应该在Clippy中. 请在`RFC PR`留下你的看法. 
 
-# 大眼夹
+# Clippy
 
 [![Build Status](https://travis-ci.org/rust-lang-nursery/rust-clippy.svg?branch=master)](https://travis-ci.org/rust-lang-nursery/rust-clippy)
 [![Windows Build status](https://ci.appveyor.com/api/projects/status/id677xpw1dguo7iw?svg=true)](https://ci.appveyor.com/project/rust-lang-libs/rust-clippy)
